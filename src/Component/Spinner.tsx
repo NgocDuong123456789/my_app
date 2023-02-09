@@ -9,6 +9,7 @@ export const Spinner = () => {
     <span className="sr-only">Loading...</span>
     
     <span className="sr-only">Loading...</span>
+    <span className="sr-only">Loading...</span>
 
 </div>
   )
